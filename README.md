@@ -5,6 +5,16 @@ This is a digit classifier that uses MNIST database and implements Artificial Ne
 * numpy
 * Theano
 * Lasagne
+* matplotlib (optional - required for visualizing dataset)
+### Visualizing Dataset
+To visualize training dataset, execute the following.
+
+`python visualize_training_digits.py`
+
+To visualize training dataset, execute the following.
+
+`python visualize_testing_digits.py`
+
 ### Usage
 To execute the program, run the following command.
 
