@@ -1,6 +1,8 @@
 # Digit Classifier with MNIST database
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+<img src="screenshots/sc1.png" width=400>  <img src="screenshots/sc2.png" width=400>
+
 This is a digit classifier that uses MNIST database and implements Artificial Neural Networks (ANN) using numpy, Theano and Lasagne. In layman terms, the machine is trained to recognize a bunch of handwritten digits and then made to predict another bunch of handwritten digits and the final result is the percentage of right predictions.
 ### Requirements
 * python
